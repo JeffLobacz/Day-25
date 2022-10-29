@@ -28,3 +28,5 @@ print(temp_list)
 # print(avg)
 
 print(data["temp"].max())
+
+'''This version was made on Macbook Air to be pushed to github as a pull request to Jeff's repo.'''
